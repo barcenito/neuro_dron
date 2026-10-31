@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neuro-dron"
+version = "0.1.0"
+description = "Direct motor drone policies with evolution strategies"
+requires-python = ">=3.10"
+dependencies = ["jax==0.6.2", "numpy>=2,<3", "crazyflow==0.0.1", "tensorboardX>=2.6", "mujoco>=3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests/integration/swarm_v2"]
+pythonpath = ["src"]
