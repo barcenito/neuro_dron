@@ -108,3 +108,7 @@ Para más detalles sobre la organización, consulta [INDICE.md](INDICE.md).
 ## Referencia
 
 [Evolution Strategies at the Hyperscale — EGGROLL](https://eshyperscale.github.io/), trabajo en el que se basa la adaptación del método para este proyecto.
+
+## Licencia
+
+Copyright (c) 2026 Carlos Barcenilla Villalon. Todos los derechos reservados, salvo los permisos expresamente concedidos en la [licencia propietaria de evaluación](LICENSE.md). Se permite consultar, descargar y ejecutar el material original para evaluar las competencias del autor en procesos de selección o entrevistas, con los ajustes técnicos necesarios para esa evaluación. Otros usos, incluida la reutilización en proyectos, productos, servicios o investigación y desarrollo, requieren autorización previa y escrita. Los componentes y recursos de terceros mantienen sus propias licencias.
